@@ -89,7 +89,7 @@ const formattedGender = computed(() => {
 
 <template>
   <div class="border rounded-2xl shadow bg-white overflow-hidden hover:shadow-md transition-shadow">
-    <!-- Creator header with profile and stats -->
+    <!-- Creator header (image, username, location, platform) -->
     <div class="p-4 border-b">
       <div class="flex items-center gap-3">
         <div class="h-12 w-12 bg-gray-200 rounded-full overflow-hidden flex-shrink-0">
