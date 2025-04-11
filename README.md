@@ -1,6 +1,6 @@
-## Streamforge Take-Home Project - Adeline Lue Sang
+# Streamforge Take-Home Project - Adeline Lue Sang
 
-# Algorithm Decisions
+## Algorithm Decisions
 I decided to enhance the match score algorithm in two ways:
 
 1) **Changing the weight of each individual score (e.g. community engagement) based on the user's campaign objective.** I felt this was an important addition to the algorithm, as a brand's campaign objective heavily alters what they want in a creator. For instance, a brand aiming to launch a product is going to place a higher importance on the relevance of the creator's content rather than the user's previous performance. Considering these factors, I created specific weighting systems for each campaign objective.
