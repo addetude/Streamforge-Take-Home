@@ -25,6 +25,3 @@ I also added a couple of improvements that I felt would generally enhance users'
 
 ## Future UX Improvements
 The biggest improvement that came to mind when working on this project was adding a page for each creator that can be accessed by clicking on their card. This way, brands looking to work with these creators can easily access more information about the creator, including (more specifically) what they do, their history, and more. Additionally, this page can display information that couldn't fit onto the creator card, including audience age and gender demographics. This page can also include information about how we calculated the match score (to give users more transparency) and possibly even incorporate the relevance decay concept by touching on the creator's past campaign timeline.
-
-## Note
-Just wanted to say a quick thank you to the Streamforge team for the opportunity to work on this project. I enjoyed taking on the challenge (even during finals season) and found myself learning a lot through it. Thank you!!!
